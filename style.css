@@ -1,0 +1,26 @@
+.a1{
+    display: flex;
+}
+
+.item{
+    display: flex;
+
+}
+.card-body12{
+    display: flex;
+    padding: auto;
+    margin-left: 260px;
+    position: static;
+    padding-left:  50px;
+
+
+    }
+    .paragraph{
+        font-size: 70px;
+        position: static;
+        margin-top: 90px;
+        margin-left: 10px;
+    }
+    .phone{
+        display: flex;
+    }
